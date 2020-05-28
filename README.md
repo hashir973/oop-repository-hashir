@@ -298,8 +298,8 @@ public class LoopController : MonoBehaviour
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
-**64093** | **muhammad hashir** 
-64016 | taymour taneem
+**64016** | **taymour taneem** 
+64093 | muhammad hashir
 ## Project Description ##
 Tappy bird is a game in which a player controls a bird’s flight height to avoid obstacles. Pressing the key for a longer period of time allows the bird to fly higher, while letting go causes the bird to fly lower. This project will bring the game to life using a video camera to detect a player’s motion, and controls the bird based on the speed at which a player flaps her arms. The FPGA will render an image of the bird flying through an environment, and display the flapping motion of the wings according to the player’s speed.
 
