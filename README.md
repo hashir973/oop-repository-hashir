@@ -1,7 +1,8 @@
 # oop-repository-hashir
 object oriented programming
 Tappy bird:
-CODE:
+CODE
+#BACKGROUND COLLIDER SCRIPT:
 using UnityEngine;
 
 public class BackgroundCollideController : MonoBehaviour
